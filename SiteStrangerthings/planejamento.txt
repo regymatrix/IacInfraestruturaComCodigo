@@ -1,0 +1,13 @@
+Objetivo
+  Criar um site para apresenter uma série e suas temporadas.
+
+Especificações
+  1. Imagem de fundo da série
+  2. Título da série
+  3. Lista das temporadas 
+  4. Para cada temporada ter um foto 
+  5. Ao clicar na foto vai para um vídeo no youtube com alguma parte daquela temporada
+  6. no final precisa ter o nome de quem criou o site
+
+
+  https://www.netflix.com/br/title/80057281
